@@ -87,7 +87,7 @@ examples/
 ```bibtex
 @misc{adadiffusion2026,
   title={AdaDiffusion: Adaptive Tile-Gated Inference for Efficient Diffusion Models},
-  author={Zheng, Dianxin and Guo, Tianhao},
+  author={Zhao Shengyuan},
   year={2026},
   url={https://github.com/zhaoshengyuan/AdaDiffusion}
 }
